@@ -1,0 +1,3 @@
+[23-Sep-2024 15:54:14 UTC] Erreur d’événement de replanification de tâche pour le crochet wp_update_themes. Code d’erreur : could_not_set. Message d’erreur : La liste des évènements planifiés n’a pas pu être sauvegardée.. Données : {"schedule":"twicedaily","args":[],"interval":43200}
+[07-Dec-2024 11:02:17 UTC] PHP Warning:  Undefined array key "url" in C:\Users\William\Local Sites\la-vie-des-plantes\app\public\wp-content\plugins\wpforms-lite\src\Forms\IconChoices.php on line 127
+[07-Dec-2024 11:02:17 UTC] PHP Warning:  Undefined array key "path" in C:\Users\William\Local Sites\la-vie-des-plantes\app\public\wp-content\plugins\wpforms-lite\src\Forms\IconChoices.php on line 128
